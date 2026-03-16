@@ -10,6 +10,7 @@ To write a program to predict the price of cars using a multiple linear regressi
 
 ## Algorithm
 1.Import Libraries: Bring in the necessary libraries.
+
 2.Load the Dataset: Load the dataset into your environment.
 3.Data Preprocessing: Handle any missing data and encode categorical variables as needed.
 4.Define Features and Target: Split the dataset into features (X) and the target variable (y).
